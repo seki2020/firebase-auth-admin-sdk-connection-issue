@@ -16,3 +16,5 @@ Therefore, you can see the error.
 
 Reference:
 https://firebase.google.com/docs/emulator-suite/connect_auth#admin_sdks
+
+ISSUE https://github.com/firebase/firebase-admin-node/issues/1077
