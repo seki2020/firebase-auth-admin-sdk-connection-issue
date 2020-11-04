@@ -5,6 +5,9 @@
   "author": "xi <ming.xi@logical-fabrics.com>",
   "license": "MIT",
   "scripts": {
-    "start":"node node.js"
+    "start": "node node.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^9.3.0"
   }
 }
